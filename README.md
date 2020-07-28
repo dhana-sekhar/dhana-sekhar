@@ -22,7 +22,9 @@
   <summary>Who are you? 👨</summary>
   <pre>
   As you know my name is sekhar, I am a passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
-  technical systems to create impact.<br>
+  technical systems to create impact.
+  You can mail me at buddha.dhanasekhar@gmail.com
+  You can contact me at +91 8985886655<br>
   </pre>
 </details>
 <details>
