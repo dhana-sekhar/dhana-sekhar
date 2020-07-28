@@ -1,5 +1,5 @@
 <h1>Hi there, I am <a href="https://dhana-sekhar.github.io/">Sekhar</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/dhana-sekhar/dhana-sekhar/blob/master/my_tensorflow_image.jpg" width="230" />
+<img align='right' src="https://github.com/dhana-sekhar/dhana-sekhar/blob/master/my_tensorflow_image.jpg" width="330" />
 
 <a href="https://www.linkedin.com/in/dhanasekhar-buddha/"><img src="https://github.com/dhana-sekhar/dhana-sekhar/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/dhana-sekhar"><img src="https://github.com/dhana-sekhar/dhana-sekhar/blob/master/logos/github-logo.png" width="40" /></a>
